@@ -13,13 +13,13 @@ Customizable : Easily swap models, tweak parameters, or extend functionality.
 Open Source : Built using the open-source GPT4All library.
 
 ## 🛠️ Installation
-Prerequisites
+**Prerequisites**
 
 Python 3.8 or higher installed on your system.
 
 Git (optional, for cloning the repository).
 
-Steps
+**Steps**
 
 Clone the Repository :
 git clone https://github.com/your-username/GPT4All-Chatbot.git
@@ -47,7 +47,7 @@ Type your question in the input box and click "Send" .
 
 The chatbot will generate a response using the mpt-7b-chat-newbpe-q4_0.gguf model.
 
-Example Questions
+**Example Questions**
 
 "What is machine learning?"
 
@@ -55,7 +55,7 @@ Example Questions
 
 "Explain recursion in Python."
 
-Tips for Better Responses
+**Tips for Better Responses**
 
 Use clear and concise inputs.
 
