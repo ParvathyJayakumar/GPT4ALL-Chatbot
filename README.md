@@ -1,5 +1,6 @@
 # GPT4All Chatbot
-A lightweight, AI-powered chatbot built using the GPT4All library and Flask . This chatbot runs entirely on your local machine, eliminating the need for external APIs or internet connectivity. Perfect for personal use, educational purposes, or experimentation with conversational AI.
+A lightweight, AI-powered chatbot built using the GPT4All library and Flask . This chatbot runs entirely on your local machine, eliminating the need for external APIs or internet connectivity. 
+Perfect for personal use, educational purposes, or experimentation with conversational AI.
 
 ## Features
 Local Execution : Runs offline on your machine without relying on external APIs.
