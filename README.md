@@ -48,6 +48,7 @@ http://127.0.0.1:5000
 Type your question in the input box and click "Send" .
 
 The chatbot will generate a response using the mistral-7b-instruct-v0.2.Q4_K_M.gguf.
+
 **Example Questions**
 
 "What is machine learning?"
