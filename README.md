@@ -32,6 +32,7 @@ pip install -r requirements.txt
 
 Download the Model :
 Visit the GPT4All Models Page and download the mistral-7b-instruct-v0.2.Q4_K_M.gguf.
+
 Place the downloaded model file in the models folder.
 
 Run the Application :
@@ -46,8 +47,7 @@ http://127.0.0.1:5000
 ## 🚀 Usage
 Type your question in the input box and click "Send" .
 
-The chatbot will generate a response using the mpt-7b-chat-newbpe-q4_0.gguf model.
-
+The chatbot will generate a response using the mistral-7b-instruct-v0.2.Q4_K_M.gguf.
 **Example Questions**
 
 "What is machine learning?"
