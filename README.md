@@ -30,7 +30,7 @@ Install the required Python libraries:
 pip install -r requirements.txt
 
 Download the Model :
-Visit the GPT4All Models Page and download the mpt-7b-chat-newbpe-q4_0.gguf model.
+Visit the GPT4All Models Page and download the mistral-7b-instruct-v0.2.Q4_K_M.gguf.
 Place the downloaded model file in the models folder.
 
 Run the Application :
