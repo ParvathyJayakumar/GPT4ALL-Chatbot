@@ -16,7 +16,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 os.environ["NO_CUDA"] = "1"
 
 # Load GPT4All Model (Use absolute path to the model)
-model_path = r"C:\GPT4All-Chatbot\models\mpt-7b-chat-newbpe-q4_0.gguf"  # Use your model path
+model_path = r"C:\GPT4All-Chatbot\models\mistral-7b-instruct-v0.2.Q4_K_M.gguf"  # Use your model path
 
 try:
     model = GPT4All(model_path, allow_download=False, n_threads=os.cpu_count())  # Use all CPU cores
